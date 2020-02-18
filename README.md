@@ -9,10 +9,16 @@
 3- Dans l'url du navigateur internet, entrer la commande suivante : http://localhost:8080/ServletV1/PremiereServlet
 
 Fonctionnalités présentes :
-- Authentifiaction
-- liste des étudiants
-- sessions
+- Session
+- Contexte
+- Local Port
+- Local addr.
+- Remote Port
+- Cookies
+- Protocol
+- Remote User
+- Server name
+- Reader
 
 Technologies :
 - servlet
-http://localhost:8080/ServletV2/SecondeServlet
