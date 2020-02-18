@@ -2,7 +2,7 @@
 
 0- Installer TomcatServer 9.0 | Utilisation de Java v.8.x
 
-1- Deplacer le fichier GestionEleveV2.war dans le dossier `webapps` de Tomcat
+1- Deplacer le fichier ServletV1.war dans le dossier `webapps` de Tomcat
 
 2- Executer startup.bat situé dans le dossier `bin` de tomcat 
 
